@@ -1,6 +1,5 @@
 # awesome-site
-
-- A curated collection of useful websites and tools for various purposes, including web capture, pentesting, dark web exploration, and more. This repository is designed to help developers, security professionals, and enthusiasts find valuable online resources and services to enhance their projects or improve their cybersecurity practices.
+A curated collection of useful websites and tools for various purposes, including web capture, pentesting, dark web exploration, and more. This repository is designed to help developers, security professionals, and enthusiasts find valuable online resources and services to enhance their projects or improve their cybersecurity practices.
 
 
 - [ID Crawl](https://www.idcrawl.com)
