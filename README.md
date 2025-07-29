@@ -11,3 +11,8 @@
 - [User Check](https://usercheck.oscarzulu.org/)
 - [Open Measures Timeline](https://public.openmeasures.io/timeline)
 - [R00m101 Tools](https://r00m101.com/tools)
+
+https://xcancel.com/
+
+extention
+https://chromewebstore.google.com/detail/html-inspector/fpaahdcndgfpbbddmgckaifkfljkfkhd?pli=1
